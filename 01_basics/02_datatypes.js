@@ -6,7 +6,7 @@
 console.log(3+5)
 console.log("harshit bhai h ")
 // code readibility should be high bekar me upr niche ni krna theek 
-// tc39 and mdn documentation kuch standards set krte h 
+// tc39 and mdn documentation kuch standards set krte h ECMA STANDARDS
 let name = "harshit"
 let age = 18
 let isLoggedIn = false
